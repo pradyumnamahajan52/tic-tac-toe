@@ -2,7 +2,7 @@
 <p align="center">
   
 ## License
-[![LICENSE](https://img.shields.io/github/license/pradyumnamahajan52/store_master?style=for-the-badge)
+[![LICENSE](https://img.shields.io/github/license/pradyumnamahajan52/tic-tac-toe?style=for-the-badge)]
 
 
 ## Version
