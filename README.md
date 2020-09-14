@@ -23,10 +23,9 @@ In today’s world, many people are only focusing on physical health or fitness 
 ## Screen Shot
 
 <p align="center">
-<img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/Project%20Images/intro.png" width="250" height="300">
+<img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/Project%20Images/intro.png" width="500" height="500">
 <img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/Project%20Images/image.png" width="250" height="300">
-<img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/intro_img.jpg" width="250" height="300">
-<img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/intro_img.jpg" width="250" height="300">
+
 </p>
 ## License
 
