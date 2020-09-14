@@ -31,6 +31,10 @@ In today’s world, many people are only focusing on physical health or fitness 
 
 ## How to use 
 
+<p>Use turbo c++ for running the program. you can run program using other ide or compiler also but there may some problem with graphics.</p> 
+<p>turbo c++ support graphics.h library </p>
+
+Download **COMMST.CPP** (cpp file) and **ic5.bmp** and paste code or copy file in bin folder of turbo cpp
 
 
 ## License
@@ -39,4 +43,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Developers
 
-@pradyumnamahajan52 @sandeepkapse @parimal6867
+**@pradyumnamahajan52 @sandeepkapse @parimal6867**
