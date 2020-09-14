@@ -2,7 +2,8 @@
 <p align="center">
   
 ## License
-[![LICENSE](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/pradyumnamahajan52/tic-tac-toe/LICENSE)
+[![LICENSE](https://img.shields.io/github/license/pradyumnamahajan52/store_master?style=for-the-badge)
+
 
 ## Version
 [![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde)
