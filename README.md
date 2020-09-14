@@ -28,4 +28,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ##CONTRIBUTING
 
-[CONTRIBUTING](CONTRIBUTING)
+@pradyumnamahajan52 @sandeepkapse @parimal6867
