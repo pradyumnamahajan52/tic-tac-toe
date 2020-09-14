@@ -10,6 +10,14 @@
 
 </p>
 
+## About Project
+
+In our project, we have made a game. Which we use to play in our childhood. We called that game as “Right and Wrong” or “Tik-Tak” or “Hash & Star”. 
+The main objective of this project using C++ and graphics is to sharpen the minds of the people with the help of the game.
+In today’s world, many people are only focusing on physical health or fitness but we also require mental exercise. This game is helpful for mental exercise of players.
+
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
