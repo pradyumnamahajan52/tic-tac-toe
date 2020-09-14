@@ -1,9 +1,9 @@
 # tic-tac-toe
 <p align="center">
-
+[<img src="https://img.shields.io/github/license/pradyumnamahajan52/tic-tac-toe?color=GREEN">](LICENSE)
 
 </p>
 
 ## License
 
-This project is licensed under the MIT License - see the [<img src="https://img.shields.io/github/license/pradyumnamahajan52/tic-tac-toe?color=GREEN">](LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
