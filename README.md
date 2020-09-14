@@ -1,6 +1,6 @@
 # tic-tac-toe
 
-<p align="center"><img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/IC5.bmp" width="400" height="300">
+<p align="center"><img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/intro_img.jpg"></p>
 
 <p align="center">
   
