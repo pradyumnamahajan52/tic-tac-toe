@@ -22,11 +22,12 @@ In today’s world, many people are only focusing on physical health or fitness 
 
 ## Screen Shot
 
+<p align="center">
 <img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/intro_img.jpg" width="250" height="300">
 <img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/intro_img.jpg" width="250" height="300">
 <img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/intro_img.jpg" width="250" height="300">
 <img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/intro_img.jpg" width="250" height="300">
-
+</p>
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
