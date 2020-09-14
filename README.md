@@ -20,7 +20,15 @@ In our project, we have made a game. Which we use to play in our childhood. We c
 The main objective of this project using C++ and graphics is to sharpen the minds of the people with the help of the game.
 In today’s world, many people are only focusing on physical health or fitness but we also require mental exercise. This game is helpful for mental exercise of players.
 
+## Screen Shot
 
+<img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/intro_img.jpg">
+<img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/intro_img.jpg">
+<img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/intro_img.jpg">
+<img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/intro_img.jpg">
+<img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/intro_img.jpg">
+<img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/intro_img.jpg">
+<img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/intro_img.jpg">
 
 ## License
 
