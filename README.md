@@ -25,6 +25,10 @@ In today’s world, many people are only focusing on physical health or fitness 
 <p align="center">
 <img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/Project%20Images/loading.png" width="350" height="450">
 <img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/Project%20Images/game%20structur%20before%20start.png" width="350" height="450">
+<img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/Project%20Images/player%201.png" width="350" height="450">
+<img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/Project%20Images/win%20of%20player%201.png" width="350" height="450">
+  
+  
 
 </p>
 ## License
