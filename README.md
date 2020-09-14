@@ -2,7 +2,7 @@
 <p align="center">
   
 ## License
-[LICENSE](https://img.shields.io/github/license/pradyumnamahajan52/tic-tac-toe)
+[[LICENSE](https://img.shields.io/github/license/pradyumnamahajan52/tic-tac-toe)].
 
 
 ## Version
