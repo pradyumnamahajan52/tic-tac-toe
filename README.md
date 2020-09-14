@@ -22,13 +22,11 @@ In today’s world, many people are only focusing on physical health or fitness 
 
 ## Screen Shot
 
-![ScreenShot](<img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/intro_img.jpg">)
-![ScreenShot](<img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/intro_img.jpg">)
-<img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/intro_img.jpg">
-<img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/intro_img.jpg">
-<img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/intro_img.jpg">
-<img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/intro_img.jpg">
-<img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/intro_img.jpg">
+<img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/intro_img.jpg" width="250" height="250">
+<img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/intro_img.jpg" width="250" height="250">
+<img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/intro_img.jpg" width="250" height="250">
+<img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/intro_img.jpg" width="250" height="250">
+<img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/intro_img.jpg" width="250" height="250">
 
 ## License
 
