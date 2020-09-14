@@ -1,8 +1,6 @@
 # tic-tac-toe
-<p align="center">
 [<img src="https://img.shields.io/github/license/pradyumnamahajan52/tic-tac-toe?color=GREEN">](LICENSE)
 
-</p>
 
 ## License
 
