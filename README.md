@@ -1,4 +1,4 @@
-# TIC TAC TOE
+# TIC TAC TOE (COMBINATION MASTER)
 
 <p align="center"><img src="https://github.com/pradyumnamahajan52/tic-tac-toe/blob/master/intro_img.jpg" height="300"></p>
 
