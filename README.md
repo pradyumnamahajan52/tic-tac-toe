@@ -6,6 +6,7 @@
   
   [<img src="https://img.shields.io/github/license/pradyumnamahajan52/tic-tac-toe?color=GREEN">](LICENSE) 
   <a href="#" ><img src="https://img.shields.io/badge/Version-4.3-brightgreen"> </a>
+  <a href="#" ><img src="https://img.shields.io/badge/Programming Language-C++ & C-brightgreen"> </a>
 
 </p>
 
