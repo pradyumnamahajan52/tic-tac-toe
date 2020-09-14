@@ -43,4 +43,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Developers
 
-**@pradyumnamahajan52 @sandeepkapse @parimal6867**
+**@pradyumnamahajan52 @sandeep1905 @parimal6867**
